@@ -15,7 +15,7 @@ A **Weather Forecasting System** built using the **OpenWeather API** that provid
 
 Here’s what the Weather Forecasting System looks like:
 
-![Weather Screenshot](your-screenshot.png)
+![Weather Screenshot](WeatherForecasting.png)
 
 ---
 
