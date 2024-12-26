@@ -54,17 +54,9 @@ To run this project locally, follow these steps:
 
 ---
 
-## 📝 License:
-
-This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) file for details.
-
----
-
 ## 🙏 Acknowledgments:
 - 💡 **OpenWeather API** for providing real-time weather data and forecasts.
 - 🎨 **Flaticon** for the icons used in this project.
-- 💻 Special thanks to all contributors who made this project possible.
-
 ---
 
 ## 📧 Contact:
